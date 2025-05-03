@@ -1,0 +1,84 @@
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #ffffff;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  color: #111;
+  line-height: 1.6;
+  padding: 40px 20px;
+  max-width: 700px;
+  margin: auto;
+}
+
+h1 {
+  color: rgb(0, 0, 0);
+  font-size: 2.2em;
+  margin-bottom: 0.5em;
+}
+
+h2 {
+  font-size: 1.5em;
+  margin-bottom: 0.25em;
+  color: #333;
+}
+
+h3 {
+  font-size: 1.25em;
+  margin-top: 2em;
+  margin-bottom: 0.5em;
+  color: #000;
+}
+
+p {
+  margin: 1em 0;
+}
+
+ul {
+  margin: 1em 0 1em 1.5em;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+
+hr {
+  margin: 2em 0;
+  border: none;
+  border-top: 1px solid #eee;
+}
+
+footer {
+  text-align: center;
+  margin-top: 3em;
+  font-size: 0.95em;
+  color: #666;
+}
+
+
+.banner {
+  background-color: #ffffff;
+  padding: 20px;
+  text-align: center;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  color: white;
+}
+
+.register-button {
+  background-color: #c0392b;
+  color: white;
+  padding: 12px 24px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.register-button:hover {
+  background-color: #a93226;
+}
