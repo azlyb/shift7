@@ -25,6 +25,7 @@ h2 {
   font-size: 1.5em;
   margin-bottom: 0.25em;
   color: #333;
+  text-align: center;
 }
 
 h3 {
@@ -32,6 +33,7 @@ h3 {
   margin-top: 2em;
   margin-bottom: 0.5em;
   color: #000;
+  text-align: center;
 }
 
 p {
